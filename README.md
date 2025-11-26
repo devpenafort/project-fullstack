@@ -170,4 +170,4 @@ Distribuído sob a licença MIT. Consulte `LICENSE` para mais informações.
 
 ---
 
-Feito com ❤️ por Rodney Victor, utilizando .NET MAUI, ASP.NET Core e Blazor.
+Feito com ❤️ por Rodney Victor (e seus alunos), utilizando .NET MAUI, ASP.NET Core e Blazor.
