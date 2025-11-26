@@ -1,6 +1,18 @@
 PessoaCad – Base para Sistema de Gerenciamento de Gastos Pessoais
 
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-v8.0-blue) ![C#](https://img.shields.io/badge/C%23-Language-brightgreen) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-v8.0-blue) ![Blazor](https://img.shields.io/badge/Blazor-Framework-purple) ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-2022-purple) ![License](https://img.shields.io/badge/License-MIT-blue) ## Descrição do Projeto O **PessoaCad** é uma solução completa para gerenciar o cadastro de pessoas, composta por uma aplicação multi-plataforma com .NET MAUI, uma API em ASP.NET Core e uma interface web utilizando Blazor. A arquitetura do projeto segue o padrão MVVM e MVC para garantir modularidade, escalabilidade e facilidade de manutenção. ## Tecnologias Utilizadas - ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-v8.0-blue) - ![C#](https://img.shields.io/badge/C%23-Programação-brightgreen) - ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-v8.0-blue) - ![Blazor](https://img.shields.io/badge/Blazor-Framework-purple) - ![Newtonsoft.Json](https://img.shields.io/badge/Newtonsoft.Json-13.0.1-orange)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-v8.0-blue) 
+![C#](https://img.shields.io/badge/C%23-Language-brightgreen) 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-v8.0-blue) 
+![Blazor](https://img.shields.io/badge/Blazor-Framework-purple) 
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-2022-purple) 
+![License](https://img.shields.io/badge/License-MIT-blue) 
+
+## Tecnologias Utilizadas - 
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-v8.0-blue) - 
+![C#](https://img.shields.io/badge/C%23-Programação-brightgreen) - 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-v8.0-blue) - 
+![Blazor](https://img.shields.io/badge/Blazor-Framework-purple) - 
+![Newtonsoft.Json](https://img.shields.io/badge/Newtonsoft.Json-13.0.1-orange)
 
 
 📌 Sobre o Projeto
