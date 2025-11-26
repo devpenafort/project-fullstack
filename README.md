@@ -65,6 +65,7 @@ Telas novas no app MAUI e na interface web
 
 Esses módulos serão adicionados sem modificar ou remover o que já existe, apenas estendendo a arquitetura padrão.
 
+
 🔧 Funcionamento dos Componentes Originais
 App Móvel (apppessoa)
 
@@ -91,6 +92,7 @@ Páginas e views para exibir e editar informações
 Uso de Blazor + ASP.NET Core MVC
 
 Arquivos estáticos em wwwroot
+
 
 ▶️ Como Executar no Visual Studio 2022
 1. Pré-requisitos
@@ -119,13 +121,5 @@ Execute a API (apipessoa)
 
 Execute o webpessoa no navegador
 
-🤝 Contribuições
 
-Contribuições são bem-vindas!
-Abra uma issue ou envie um pull request.
-
-📄 Licença
-
-Distribuído sob licença MIT. Consulte LICENSE para mais detalhes.
-
-Feito com ❤️ como parte do projeto acadêmico, utilizando a base fornecida pelo professor Rodney Victor.
+Feito como parte do projeto acadêmico, utilizando a base fornecida pelo professor Rodney Victor.
