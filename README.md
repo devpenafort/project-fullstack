@@ -38,6 +38,8 @@ Esta estrutura serve como exemplo para o nosso projeto final.
 
 🛠️ Tecnologias Utilizadas
 
+````markdown
+```plaintext
 📂 Estrutura Atual do Projeto
 PessoaCad/
 ├── apppessoa/
@@ -131,7 +133,7 @@ PessoaCad/
 │   │               └── jquery.validate.unobtrusive.js
 ├── PessoaCad.sln
 └── README.md
-
+``` 
 🧩 Expansões para o Sistema de Gerenciamento de Gastos Pessoais
 O projeto será ampliado com novas funcionalidades, como:
 Cadastro de gastos e categorias
